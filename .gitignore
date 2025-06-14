@@ -1,0 +1,6 @@
+*.pem
+.env
+.vscode
+data
+space_apps.zip
+.ipynb_checkpoints/
