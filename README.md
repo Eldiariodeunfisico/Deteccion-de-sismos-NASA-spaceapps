@@ -14,7 +14,7 @@ Each trace included in the test folder has a quake in it, there are no empty tra
 
 This main folder also has a Jupyter notebook that will help you get started on the data.
 
-[Ver presentación del proyecto](https://gamma.app/docs/Seismic-Detection-across-the-Solar-System-p3jgqenybesmv7nw?mode=doc)
+[Ver presentación del proyecto]([https://gamma.app/docs/Seismic-Detection-across-the-Solar-System-p3jgqenybesmv7nw?mode=doc](https://gamma.app/docs/Seismic-Detection-across-the-Solar-System-p3jqenybesmv7nw?mode=doc))
 
 # IMPORTANT
 Please make sure that your output catalog has at least the following headers:
